@@ -1813,11 +1813,11 @@ Nah:
 #ukb-slack-stack
 
 $$
-\Truth  (E, x) \rightarrow
-\Claim  E(t \mid x) + \epsilon \rightarrow
-\Validate \ \frac{dE_x}{dt} \rightarrow
-\Rigor  \frac{dE_{bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt}} \rightarrow
-\Credibility  \int E_x dt \epsilon_x t + C_x
+\{Truth} \ (E, x) \rightarrow
+\{Claim} \ E(t \mid x) + \epsilon \rightarrow
+\{Validate} \ \frac{dE_x}{dt} \rightarrow
+\{Rigor} \ \frac{dE_{bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt}} \rightarrow
+\{Credibility} \ \int E_x dt \epsilon_x t + C_x
 $$
 
 ---
