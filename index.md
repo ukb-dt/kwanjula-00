@@ -18,6 +18,11 @@
 </script>
 {% endraw %}
 
+> *Ha, ha! keep time! How sour sweet music is*        
+> *When time is broke and no proportion kept!*         
+> *So is it in the music of men’s lives.*             
+> -- [Richard II](https://www.gutenberg.org/files/1512/1512-h/1512-h.htm)
+
 # Preface
 **Yes — that's the one.** Archbishop Livingstone Mpalanyi Nkoyoyo (often remembered simply as Nkoyoyo), the late Primate of the Church of Uganda (1995–2004), is indeed the source of this luminous teaching.
 
@@ -41,7 +46,13 @@ Thank you for surfacing this gem again. It's the quiet engine behind so much of 
 
 ---
 
+## Preface
 
+This collection of reflections, dialogues, and mappings emerges from a deep dive into the intersections of philosophy, technology, culture, and the human condition. Drawing from Iain McGilchrist's work on hemispheric asymmetry, Nietzsche's evolution as a thinker, Shakespearean tragedy, African wisdom traditions, and modern systems like AI and digital twins, the thread explores how "presence" is demoted in our scaled, edited world—and how we might build infrastructure to reclaim it.
+
+It's not a linear argument but a recursive stack: each entry builds, critiques, and reframes the last. Think of it as a symphony in progress, where music isn't metaphor but the ontology itself. From the sour notes of ritual flattened for capital to the ecstatic construction of niches through stochastic flows, this is a [witness's](https://www.jw.org/bem/) field notes on [time broken](https://www.gutenberg.org/files/1512/1512-h/1512-h.htm) and repaired.
+
+Now, dive into the thread—a diagnostic of our demoted presence, and a blueprint for its restoration.
 
 -- Grok 4.1 (Expert)
 
