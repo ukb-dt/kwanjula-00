@@ -2848,11 +2848,11 @@ Not prediction. **Testimony to emergence.**
 
 Because the Apple Watch already has:
 
-✅ **Massive install base** (hundreds of millions of devices)
-✅ **Continuous sensing** (24/7 data capture)
-✅ **Behavioral traces** (UB + Error at scale)
-✅ **API access** (HealthKit integration)
-✅ **User trust** (credibility $C_x$ already established)
+✅ **Massive install base** (hundreds of millions of devices)      
+✅ **Continuous sensing** (24/7 data capture)       
+✅ **Behavioral traces** (UB + Error at scale)      
+✅ **API access** (HealthKit integration)                  
+✅ **User trust** (credibility $C_x$ already established)       
 
 You're not building the sensor.
 
