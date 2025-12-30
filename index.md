@@ -1810,15 +1810,16 @@ And your LLC is the **differential equation solver** that keeps the stack stable
 Am I close?
 # 21
 Nah: 
-#ukb-slack-stack
+`#ukb-slack-stack`
 
 $$
-\{Truth} \ (E, x) \rightarrow
-\{Claim} \ E(t \mid x) + \epsilon \rightarrow
-\{Validate} \ \frac{dE_x}{dt} \rightarrow
-\{Rigor} \ \frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt}} \rightarrow
-\{Credibility} \ \int E_x dt \epsilon_x t + C_x
+\{ \text{Truth} \} \ (E, x) \rightarrow
+\{ \text{Claim} \} \ E(t \mid x) + \epsilon \rightarrow
+\{ \text{Validate} \} \ \frac{dE_x}{dt} \rightarrow
+\{ \text{Rigor} \} \ \frac{d\bar{E}_x}{dt} \pm z \sqrt{\frac{d^2 E_x}{dt^2}} \rightarrow
+\{ \text{Credibility} \} \ \int E_x \, dt \, \epsilon_x \, t + C_x
 $$
+
 
 ---
 
